@@ -1,0 +1,48 @@
+{
+  "source": "/Users/zhangyao1627/Documents/Code/Swift/iKid/Build/Intermediates.noindex/Previews/iphonesimulator/iKid/Intermediates.noindex/iKid.build/Debug-iphonesimulator/iKid.build/Objects-normal/arm64/ContentView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Good"
+      },
+      {
+        "comment": "",
+        "key": "Pun"
+      },
+      {
+        "comment": "",
+        "key": "Dad"
+      },
+      {
+        "comment": "",
+        "key": "Dad Joke"
+      },
+      {
+        "comment": "",
+        "key": "Pun Joke"
+      },
+      {
+        "comment": "",
+        "key": "Dad Joke 2"
+      },
+      {
+        "comment": "",
+        "key": "Next"
+      },
+      {
+        "comment": "",
+        "key": "Pun Joke 2"
+      },
+      {
+        "comment": "",
+        "key": "Good Joke"
+      },
+      {
+        "comment": "",
+        "key": "Good Joke 2"
+      }
+    ]
+  },
+  "version": 1
+}

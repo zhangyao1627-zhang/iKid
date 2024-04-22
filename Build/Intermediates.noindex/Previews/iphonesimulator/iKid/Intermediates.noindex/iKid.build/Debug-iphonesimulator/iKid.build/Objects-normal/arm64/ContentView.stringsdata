@@ -1,0 +1,48 @@
+{
+  "source": "/Users/zhangyao1627/Documents/Code/Swift/iKid/iKid/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Good Joke"
+      },
+      {
+        "comment": "",
+        "key": "Good Joke 2"
+      },
+      {
+        "comment": "",
+        "key": "Next"
+      },
+      {
+        "comment": "",
+        "key": "Pun Joke"
+      },
+      {
+        "comment": "",
+        "key": "Pun Joke 2"
+      },
+      {
+        "comment": "",
+        "key": "Dad Joke"
+      },
+      {
+        "comment": "",
+        "key": "Dad Joke 2"
+      },
+      {
+        "comment": "",
+        "key": "Good"
+      },
+      {
+        "comment": "",
+        "key": "Pun"
+      },
+      {
+        "comment": "",
+        "key": "Dad"
+      }
+    ]
+  },
+  "version": 1
+}
